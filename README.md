@@ -14,8 +14,8 @@ Programmer and Designer specialized in Frontend and UX/UI Design for Web pages /
 
 ### Skills
     
-<div align="left" style="display: flex">
-    <div style="margin: 0 10px">
+<div align="left" style="display: flex !important">
+    <div style="margin: 0 10px !important">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
         </a>
@@ -61,7 +61,7 @@ Programmer and Designer specialized in Frontend and UX/UI Design for Web pages /
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" />
         </a> 
     </div>
-    <div style="margin: 0 10px">
+    <div style="margin: 0 10px !important">
         <a href="https://www.linkedin.com/in/julian-pacilio" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
         </a>
