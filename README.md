@@ -9,7 +9,7 @@
 Programmer and Designer specialized in Frontend and UX/UI Design for Web pages / Mobile Applications, mainly with JavaScript and PHP programming languages. My main traits are responsible, efficient, pragmatic and creative.
 
 * 🌍  I'm based in Argentina, Buenos Aires
-* 🖥️  See my portfolio at [MyPersonalPortfolio (Work in progress)]
+* 🖥️  See my portfolio at (Work in progress)
 * ✉️  You can contact me at [julian.pacilio.info@gmail.com](mailto:julian.pacilio.info@gmail.com)
 * 🧠  I'm learning everything about front-end
 * ⚡  I enjoy to work listening Tecno Music
