@@ -4,7 +4,7 @@
   <img height="200" align="center" src="https://github.com/julian-pacilio/julian-pacilio/assets/112145157/98179833-47f8-40d7-bae2-6389291de65e" alt="Julian Paacilio" /> </a>
 </p>
 
-<h2 align="center">Web Developer / Web Designer / Student</h2>
+<h2 align="center">Web Developer / Web Designer / Professor</h2>
 
 Programmer and Designer specialized in Frontend and UX/UI Design for Web pages / Mobile Applications, mainly with JavaScript and PHP programming languages. My main traits are responsible, efficient, pragmatic and creative.
 
