@@ -20,7 +20,7 @@ Programmer and Designer specialized in Frontend and UX/UI Design for Web pages /
 
 ### Socials
 
-<p align="left"> <a href="https://www.behance.com/julianpacilio" target="_blank" rel="noreferrer"> <img style="margin:0 10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="40" height="40" /> </a> <a href="https://www.linkedin.com/in/julian-pacilio" target="_blank" rel="noreferrer"> <img style="margin:0 10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </a> </p>
+<p align="left"> <a href="https://www.behance.com/julian-pacilio" target="_blank" rel="noreferrer"> <img style="margin:0 10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="40" height="40" /> </a> <a href="https://www.linkedin.com/in/julian-pacilio" target="_blank" rel="noreferrer"> <img style="margin:0 10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </a> </p>
 
 ### Stats
 
