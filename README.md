@@ -2,11 +2,10 @@
 
 Programmer and Designer specialized in Frontend and UX/UI Design for Web pages / Mobile Applications, mainly with JavaScript and PHP programming languages. My main traits are responsible, efficient, pragmatic and creative.
 
-* 💻  FrontEnd Developer
+* 💻  FullStack Developer
 * 🖥️  See my portfolio [here](https://pacilio-julian.vercel.app)
 * 🧠  I'm interesting on learning Typescript and Next.js
-* ⭕  Working at ADA ITW as FrontEnd mentor/teacher
-* 💻  Working at APTEK as FrontEnd Developer & PHP Developer
+* 💻  Working at MacroSeguridad as FullStack Developer & PHP Developer
 
 ### Skills
 
